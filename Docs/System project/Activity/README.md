@@ -16,12 +16,12 @@
 <a name="reg"/>
 
 # 1 Зарегистрироваться
-![Зарегистрироваться](https://github.com/graschik/ViewingJokes/blob/master/Docs/System%20project/Activity/SingUp.png)
+![Зарегистрироваться](https://github.com/graschik/ViewingJokes/blob/master/Docs/System%20project/Activity/SignUp.png)
 
 <a name="log_in_to_your_account"/>
 
 # 2 Войти в учётную запись
-![Войти в учётную записть](https://github.com/graschik/ViewingJokes/blob/master/Docs/System%20project/Activity/SignIn.png)
+![Войти в учётную записть](https://github.com/graschik/ViewingJokes/blob/master/Docs/System%20project/Activity/SingIn.png)
 
 <a name="sign_out_of_your_account"/>
 

@@ -10,11 +10,11 @@
 ## 2. Требования пользователя
 ### 2.1 Программные интерфейсы
 * Frameworks
-  * Yii2
+  * Symfony
   * Bootstrap
 * Databases
-  * Mysql
-  * Active Record ORM
+  * MySQL
+  * Doctrine ORM
 * Programming language
   * PHP
   * JavaScript

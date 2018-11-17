@@ -1,0 +1,18 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    <div class="content">
+        <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
+            <h1 class="display-4">Jokes creation</h1>
+        </div>
+        <div class="container">
+            {{ form_start(form) }}
+            {{ form_widget(form) }}
+            <input type="submit" class="btn btn-success btn-lg" value="Создать"/>
+            <a class="btn btn-secondary btn-lg" href="{{ path('joke_index') }}">Вернуться</a>
+            {{ form_end(form) }}
+
+        </div>
+    </div>
+
+{% endblock %}

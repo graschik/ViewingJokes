@@ -1,0 +1,37 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    <div class="content">
+        <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
+            <h1 class="display-4">АнегДоки</h1>
+        </div>
+        <div class="container">
+            <a class="btn btn-success" href="{{ path('joke_new') }}">Добавить анекдот</a>
+            <table class="table table-hover">
+                <thead>
+                <tr>
+                    <th scope="col">Id</th>
+                    <th scope="col">Text</th>
+                    <th scope="col">Actions</th>
+                </tr>
+                </thead>
+                <tbody>
+                {% for joke in jokes %}
+                    <tr>
+                        <td scope="col"><a class="btn btn-info"
+                                           href="{{ path('joke_show', { 'id': joke.id }) }}">{{ joke.id }}</a></td>
+                        <td scope="col" width="800px">{{ joke.text }}</td>
+                        <td scope="col">
+                            <a class="btn btn-info" href="{{ path('joke_show', { 'id': joke.id }) }}">Просмотр</a>
+                            <a class="btn btn-warning" href="{{ path('joke_edit', { 'id': joke.id }) }}">Изменить</a>
+                            {% if joke.offered==true %}
+                                <a class="btn btn-secondary" href="{{ path('joke_accept', { 'id': joke.id }) }}">Одобрить</a>
+                            {% endif %}
+                        </td>
+                    </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+{% endblock %}

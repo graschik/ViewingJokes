@@ -1,0 +1,32 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    <div class="container">
+        <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
+            <h1 class="display-4">Joke</h1>
+        </div>
+        <table class="table table-hover">
+            <thead>
+            <tr>
+                <th scope="col">Id</th>
+                <th scope="col">Text</th>
+                <th scope="col">Сategory</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>{{ joke.getId }}</td>
+                <td>{{ joke.getText }}</td>
+                <td>{{ joke.getCategory.name }}</td>
+            </tr>
+            </tbody>
+        </table>
+        <a class="btn btn-secondary btn-lg" href="{{ path('joke_index') }}">Back to the list</a>
+        <a class="btn btn-warning btn-lg" href="{{ path('joke_edit', { 'id': joke.id }) }}">Edit</a>
+        {{ form_start(delete_form) }}
+        <input class="btn btn-danger btn-lg" type="submit" value="Delete">
+        {{ form_end(delete_form) }}
+    </div>
+
+
+{% endblock %}

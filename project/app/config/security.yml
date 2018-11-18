@@ -20,7 +20,7 @@ security:
                 login_path: login
                 check_path: login
                 provider: our_db_provider
-                default_target_path: /
+                default_target_path: /jokes
                 username_parameter: "login_form[username]"
                 password_parameter: "login_form[password]"
 

@@ -66,8 +66,9 @@ class AuthController extends Controller
             $user->setPassword($password);
             $user->setRepeatPassword('');
             $user->setRoles(['ROLE_USER']);
+            $user->setIsActive(true);
             $this->userService->save($user);
-            return $this->redirectToRoute('joke_index');
+            return $this->redirectToRoute('user_joke_index');
         }
         return $this->render('auth/signup.html.twig', [
             'form' => $form->createView()

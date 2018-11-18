@@ -11,7 +11,7 @@
                         'attr':{novalidate:'novalidate'},
                     }) }}
                     {% if authenticationError is defined and authenticationError %}
-                        <div class="alert alert-danger" role="alert">Incorrect login or password</div>
+                        <div class="alert alert-danger" role="alert">{{ authenticationError.message }}</div>
                     {% endif %}
 
                     <div class="form-group">

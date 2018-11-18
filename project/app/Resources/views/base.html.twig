@@ -8,19 +8,22 @@
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
               integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
               crossorigin="anonymous">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet"
+              href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     {% endblock %}
     <link rel="icon" type="image/x-icon"
           href="{{ asset('favicon.ico') }}"/>{# add this at the beginning of your template #}
 </head>
 <body>
 <div class="d-flex flex-column flex-md-row align-items-center p-3 px-md-4 mb-3 bg-white border-bottom box-shadow">
-    <h5 class="my-0 mr-md-auto font-weight-normal">Jokes</h5>
+    <h5 class="my-0 mr-md-auto font-weight-normal"><a href="{{ path('user_joke_index') }}" style="
+  color: #000 !important;
+  text-decoration: none">Jokes</a></h5>
     <nav class="my-2 my-md-0 mr-md-3">
         {% if is_granted('ROLE_ADMIN') %}
             <a class="p-2 text-dark" href="{{ path('category_index') }}">Категории</a>
             <a class="p-2 text-dark" href="{{ path('joke_index') }}">Анекдоты</a>
-            <a class="p-2 text-dark" href="#">Пользователи</a>
+            <a class="p-2 text-dark" href="{{ path('users_index') }}">Пользователи</a>
         {% endif %}
         {% if is_granted('ROLE_USER') %}
             <a class="p-2 text-dark" href="{{ path('joke_offer') }}">Предложить анекдот</a>
@@ -29,10 +32,10 @@
     {% if is_granted('IS_AUTHENTICATED_FULLY') or is_granted('IS_AUTHENTICATED_REMEMBERED') %}
         <a class="btn btn-outline-primary" href="{{ path('logout') }}">Выйти</a>
     {% else %}
-    <nav class="my-2 my-md-0 mr-md-3">
-        <a class="btn btn-outline-primary" href="{{ path('login') }}">Войти</a>
-        <a class="btn btn-outline-primary" href="{{ path('signup') }}">Зарегистрироваться</a>
-    </nav>
+        <nav class="my-2 my-md-0 mr-md-3">
+            <a class="btn btn-outline-primary" href="{{ path('login') }}">Войти</a>
+            <a class="btn btn-outline-primary" href="{{ path('signup') }}">Зарегистрироваться</a>
+        </nav>
     {% endif %}
 
 </div>

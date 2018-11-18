@@ -25,22 +25,22 @@ class SignupForm extends AbstractType
     {
         $builder
             ->add('username', TextType::class, [
-                'label' => 'Username'
+                'label' => 'Имя пользователя'
             ])
             ->add('repeatPassword', RepeatedType::class,[
                 'type' => PasswordType::class,
                 'first_options'  => [
-                    'label' => 'Password'
+                    'label' => 'Пароль'
                 ],
                 'second_options' => [
-                    'label' => 'Repeat password'
+                    'label' => 'Повторите пароль'
                 ],
             ])
             ->add('email', EmailType::class, [
                 'label'    => 'Email'
             ])
             ->add('confirm', SubmitType::class, [
-                'label' => 'Signup'
+                'label' => 'Зарегистрироваться'
             ]);
     }
     /**

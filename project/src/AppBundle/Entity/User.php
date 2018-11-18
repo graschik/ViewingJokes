@@ -74,6 +74,12 @@ class User implements AdvancedUserInterface
     private $roles;
 
     /**
+     * @var integer
+     * @ORM\Column(name="active", type="boolean")
+     */
+    private $isActive;
+
+    /**
      * @return mixed
      */
     public function getEmail()
@@ -179,7 +185,7 @@ class User implements AdvancedUserInterface
      */
     public function isEnabled()
     {
-        return true;
+        return $this->isActive;
     }
 
     /**
@@ -280,5 +286,21 @@ class User implements AdvancedUserInterface
     public function setRoles($roles)
     {
         $this->roles = $roles;
+    }
+
+    /**
+     * @return int
+     */
+    public function getisActive()
+    {
+        return $this->isActive;
+    }
+
+    /**
+     * @param int $isActive
+     */
+    public function setIsActive($isActive)
+    {
+        $this->isActive = $isActive;
     }
 }

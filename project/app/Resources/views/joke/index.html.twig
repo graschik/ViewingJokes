@@ -6,13 +6,13 @@
             <h1 class="display-4">АнегДоки</h1>
         </div>
         <div class="container">
-            <a class="btn btn-success" href="{{ path('joke_new') }}">Добавить анекдот</a>
+            <a class="btn btn-success" style="margin-bottom: 20px" href="{{ path('joke_new') }}">Добавить анекдот</a>
             <table class="table table-hover">
                 <thead>
                 <tr>
                     <th scope="col">Id</th>
-                    <th scope="col">Text</th>
-                    <th scope="col">Actions</th>
+                    <th scope="col">Текст</th>
+                    <th scope="col">Действия</th>
                 </tr>
                 </thead>
                 <tbody>
@@ -20,8 +20,8 @@
                     <tr>
                         <td scope="col"><a class="btn btn-info"
                                            href="{{ path('joke_show', { 'id': joke.id }) }}">{{ joke.id }}</a></td>
-                        <td scope="col" width="800px">{{ joke.text }}</td>
-                        <td scope="col">
+                        <td scope="col" width="800px" style="">{{ joke.text }}</td>
+                        <td scope="col" width="400px">
                             <a class="btn btn-info" href="{{ path('joke_show', { 'id': joke.id }) }}">Просмотр</a>
                             <a class="btn btn-warning" href="{{ path('joke_edit', { 'id': joke.id }) }}">Изменить</a>
                             {% if joke.offered==true %}

@@ -3,29 +3,27 @@
 {% block body %}
     <div class="container">
         <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
-            <h1 class="display-4">Joke</h1>
+            <h1 class="display-4">Просмотр анекдота</h1>
         </div>
         <table class="table table-hover">
             <thead>
             <tr>
                 <th scope="col">Id</th>
-                <th scope="col">Text</th>
-                <th scope="col">Сategory</th>
+                <th scope="col">Текст</th>
+                <th scope="col">Категория</th>
             </tr>
             </thead>
             <tbody>
             <tr>
                 <td>{{ joke.getId }}</td>
-                <td>{{ joke.getText }}</td>
+                <td style="white-space: pre-line; margin-top: -25px ">{{ joke.getText }}</td>
                 <td>{{ joke.getCategory.name }}</td>
             </tr>
             </tbody>
         </table>
-        <a class="btn btn-secondary btn-lg" href="{{ path('joke_index') }}">Back to the list</a>
-        <a class="btn btn-warning btn-lg" href="{{ path('joke_edit', { 'id': joke.id }) }}">Edit</a>
-        {{ form_start(delete_form) }}
-        <input class="btn btn-danger btn-lg" type="submit" value="Delete">
-        {{ form_end(delete_form) }}
+        <a class="btn btn-success btn-lg" href="{{ path('joke_edit', { 'id': joke.id }) }}">Изменить</a>
+        <a class="btn btn-danger btn-lg" href="{{ path('joke_delete', {'id':joke.id}) }}">Удалить</a>
+        <a class="btn btn-secondary btn-lg" href="{{ path('joke_index') }}">Вернуться к списку</a>
     </div>
 
 

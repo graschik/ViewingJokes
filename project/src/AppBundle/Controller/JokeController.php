@@ -33,6 +33,7 @@ class JokeController extends Controller
 
     /**
      * Lists all joke entities.
+     * @Route("/{category_id}", name="main", defaults={"category_id"=null}, requirements={"category_id": "\d"})
      * @Route("/jokes/{category_id}", name="user_joke_index", defaults={"category_id"=null}, requirements={"category_id": "\d"})
      * @Method("GET")
      * @param Request $request
@@ -194,22 +195,18 @@ class JokeController extends Controller
      * Deletes a joke entity.
      *
      * @IsGranted("ROLE_ADMIN")
-     * @Route("/admin/jokes/{id}", name="joke_delete")
+     * @Route("/admin/joke/delete/{id}", name="joke_delete")
      * @Method("DELETE")
      * @param Request $request
      * @param Joke $joke
      * @return \Symfony\Component\HttpFoundation\RedirectResponse
      */
-    public function deleteAction(Request $request, Joke $joke)
+    public function deleteAction(Request $request, $id)
     {
-        $form = $this->createDeleteForm($joke);
-        $form->handleRequest($request);
-
-        if ($form->isSubmitted() && $form->isValid()) {
-            $em = $this->getDoctrine()->getManager();
-            $em->remove($joke);
-            $em->flush();
-        }
+        $em = $this->getDoctrine()->getManager();
+        $joke = $em->getRepository(Joke::class)->find($id);
+        $em->remove($joke);
+        $em->flush();
 
         return $this->redirectToRoute('joke_index');
     }

@@ -3,31 +3,35 @@
 {% block body %}
     <div class="content">
         <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
-            <h1 class="display-4">Categories list</h1>
+            <h1 class="display-4">Список категорий</h1>
         </div>
         <div class="container">
-            <a class="btn btn-success" href="{{ path('category_new') }}">Create a new category</a>
-            <table class="table table-hover">
-                <thead>
-                <tr>
-                    <th scope="col">Id</th>
-                    <th scope="col">Name</th>
-                    <th scope="col">Actions</th>
-                </tr>
-                </thead>
-                <tbody>
-                {% for category in categories %}
+            <div class="row">
+                <a class="btn btn-success" style="margin-bottom: 20px" href="{{ path('category_new') }}">Добавить категорию</a>
+                <table class="table table-hover">
+                    <thead>
                     <tr>
-                        <td scope="col" ><a class="btn btn-info" href="{{ path('category_show', { 'id': category.id }) }}">{{ category.id }}</a></td>
-                        <td  scope="col"width="800px">{{ category.name }}</td>
-                        <td scope="col">
-                            <a class="btn btn-info" href="{{ path('category_show', { 'id': category.id }) }}">show</a>
-                            <a class="btn btn-warning" href="{{ path('category_edit', { 'id': category.id }) }}">edit</a>
-                        </td>
+                        <th scope="col">Id</th>
+                        <th scope="col">Название</th>
+                        <th scope="col">Действия</th>
                     </tr>
-                {% endfor %}
-                </tbody>
-            </table>
+                    </thead>
+                    <tbody>
+                    {% for category in categories %}
+                        <tr>
+                            <td scope="col"><a class="btn btn-info"
+                                               href="{{ path('category_show', { 'id': category.id }) }}">{{ category.id }}</a>
+                            </td>
+                            <td scope="col" width="800px">{{ category.name }}</td>
+                            <td scope="col">
+                                <a class="btn btn-info" href="{{ path('category_show', { 'id': category.id }) }}">Просмотреть</a>
+                                <a class="btn btn-warning" href="{{ path('category_edit', { 'id': category.id }) }}">Изменить</a>
+                            </td>
+                        </tr>
+                    {% endfor %}
+                    </tbody>
+                </table>
+            </div>
         </div>
     </div>
 {% endblock %}

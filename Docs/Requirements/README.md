@@ -20,7 +20,7 @@
   * JavaScript
 ### 2.2 Интерфейс пользователя
 * Страница регистрации.
-![alt text](https://github.com/graschik/ViewingJokes/tree/master/Docs/Requirements/Mockups/Sign_up.png)
+![Страница регистрации](https://github.com/graschik/ViewingJokes/tree/master/Docs/Requirements/Mockups/Sign_up.png)
 * Страница входа в аккаунт.
 ![alt text](https://github.com/graschik/ViewingJokes/tree/master/Docs/Requirements/Mockups/Sign_in.png)
 * Главная страница с анекдотами.

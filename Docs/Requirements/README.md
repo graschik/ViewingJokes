@@ -20,9 +20,9 @@
   * JavaScript
 ### 2.2 Интерфейс пользователя
 * Страница регистрации.
-![alt text](https://github.com/graschik/ViewingJokes/blob/master/Docs/Requiremens/Mockups/Sign_up.png)
+![Страница регистрации](https://github.com/graschik/ViewingJokes/blob/master/Docs/Requiremens/Mockups/Sign_up.png)
 * Страница входа в аккаунт.
-![alt text](https://github.com/graschik/ViewingJokes/blob/master/Docs/Requiremens/Mockups/Sign_in.png)
+![Страница входа в аккаунт](https://github.com/graschik/ViewingJokes/blob/master/Docs/Requiremens/Mockups/Sign_in.png)
 * Главная страница с анекдотами.
 ![alt text](https://github.com/graschik/ViewingJokes/blob/master/Docs/Requiremens/Mockups/Main_page.png)
 * Страница добавления/редактирования категории.

@@ -2,82 +2,135 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2365e3e-a310-4b72-b8c6-517be10595c8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Docs/System project/State/1s.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Docs/System project/State/2s.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Docs/System project/State/3s.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Docs/System project/State/4s.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Docs/System project/State/5s.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Docs/System project/State/6s.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Docs/System project/README.md" afterPath="$PROJECT_DIR$/Docs/System project/README.md" />
+      <change beforePath="$PROJECT_DIR$/.idea/Joke-project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Joke-project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Docs/Requirements/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Docs/Requirements/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/src/AppBundle/Form/SignupForm.php" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/AppBundle/Form/SignupForm.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ComposerSettings" doNotAsk="true" executionDataType="PHAR">
+    <pharConfigPath>$PROJECT_DIR$/project/composer.json</pharConfigPath>
+    <pharPath>$PROJECT_DIR$/composer.phar</pharPath>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1678335307">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="PHP/\AppBundle\Controller\AuthController" value="2" />
+          <entry key="PHP/\AppBundle\Controller\JokeController" value="1" />
+          <entry key="PHP/\AppBundle\Controller\UserController" value="1" />
+          <entry key="json" value="1" />
+          <entry key="md" value="6" />
+          <entry key="php" value="3" />
+          <entry key="png" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Image" value="14" />
+          <entry key="JSON" value="1" />
+          <entry key="Markdown" value="6" />
+          <entry key="PHP" value="3" />
+          <entry key="UML" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.php.composer.actions">
+        <counts>
+          <entry key="install_from_ComposerEditorNotificationPanel" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="md" value="111" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Markdown" value="111" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Docs/System project/Sequence/README.md">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="96">
-                <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="33" selection-end-column="131" />
-                <folding />
+              <first_editor relative-caret-position="46">
+                <caret line="2" column="75" selection-start-line="2" selection-start-column="75" selection-end-line="2" selection-end-column="75" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Docs/System project/State/README.md">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Docs/System project/Deployment/deployment.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Docs/Requirements/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="437">
-                <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-                <folding />
+              <first_editor relative-caret-position="54">
+                <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Docs/System project/ClassDiagram/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="69">
-                <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Docs/System project/Component/Components.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Docs/System project/ClassDiagram/diagram.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Docs/System project/State/State.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Docs/System project/Component/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="69">
-                <caret line="3" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-                <folding />
+                <caret line="3" lean-forward="true" selection-end-line="3" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Docs/System project/Deployment/README.md">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Docs/System project/ClassDiagram/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="46">
-                <caret line="2" column="123" lean-forward="false" selection-start-line="2" selection-start-column="123" selection-end-line="2" selection-end-column="123" />
-                <folding />
+                <caret line="2" column="121" selection-start-line="2" selection-end-line="2" selection-end-column="121" />
               </first_editor>
               <second_editor />
             </state>
@@ -86,7 +139,16 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -94,14 +156,20 @@
       <list>
         <option value="$PROJECT_DIR$/Docs/System project/UseCase/README.md" />
         <option value="$PROJECT_DIR$/Docs/System project/UseCase/Flow of Events.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Docs/System project/README.md" />
         <option value="$PROJECT_DIR$/Docs/System project/Sequence/README.md" />
         <option value="$PROJECT_DIR$/Docs/System project/Activity/README.md" />
-        <option value="$PROJECT_DIR$/Docs/System project/State/README.md" />
         <option value="$PROJECT_DIR$/Docs/System project/ClassDiagram/README.md" />
         <option value="$PROJECT_DIR$/Docs/System project/Component/README.md" />
         <option value="$PROJECT_DIR$/Docs/System project/Deployment/README.md" />
+        <option value="$PROJECT_DIR$/Project/Frontend/Templates/index.html" />
+        <option value="$PROJECT_DIR$/Project/Frontend/Templates/signin.html" />
+        <option value="$PROJECT_DIR$/Project/Frontend/Templates/signup.html" />
+        <option value="$PROJECT_DIR$/Project/Frontend/Templates/joke.html" />
+        <option value="$PROJECT_DIR$/Project/Frontend/Scripts/styles.css" />
+        <option value="$PROJECT_DIR$/Docs/System project/State/README.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Docs/Requirements/README.md" />
       </list>
     </option>
   </component>
@@ -111,26 +179,75 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/project/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
+    <include_path>
+      <path value="$PROJECT_DIR$/project/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/project/vendor/doctrine/migrations" />
+      <path value="$PROJECT_DIR$/project/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/project/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/project/vendor/doctrine/doctrine-cache-bundle" />
+      <path value="$PROJECT_DIR$/project/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/project/vendor/twig/extensions" />
+      <path value="$PROJECT_DIR$/project/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/project/vendor/ocramius/proxy-manager" />
+      <path value="$PROJECT_DIR$/project/vendor/easycorp/easyadmin-bundle" />
+      <path value="$PROJECT_DIR$/project/vendor/zendframework/zend-code" />
+      <path value="$PROJECT_DIR$/project/vendor/zendframework/zend-eventmanager" />
+      <path value="$PROJECT_DIR$/project/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/project/vendor/fig/link-util" />
+      <path value="$PROJECT_DIR$/project/vendor/ocramius/package-versions" />
+      <path value="$PROJECT_DIR$/project/vendor/composer" />
+      <path value="$PROJECT_DIR$/project/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/project/vendor/pagerfanta/pagerfanta" />
+      <path value="$PROJECT_DIR$/project/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/project/vendor/sensio/framework-extra-bundle" />
+      <path value="$PROJECT_DIR$/project/vendor/sensio/distribution-bundle" />
+      <path value="$PROJECT_DIR$/project/vendor/sensio/generator-bundle" />
+      <path value="$PROJECT_DIR$/project/vendor/jdorn/sql-formatter" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/project/vendor/sensiolabs/security-checker" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/polyfill-php56" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/polyfill-util" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/symfony" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/project/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/project/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/project/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/project/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/project/vendor/psr/link" />
+      <path value="$PROJECT_DIR$/project/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/monolog-bundle" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/polyfill-apcu" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/phpunit-bridge" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/polyfill-intl-icu" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/swiftmailer-bundle" />
+      <path value="$PROJECT_DIR$/project/vendor/incenteev/composer-parameter-handler" />
+      <path value="$PROJECT_DIR$/project/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/project/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/project/vendor/doctrine/doctrine-migrations-bundle" />
+      <path value="$PROJECT_DIR$/project/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/project/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/project/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/project/vendor/doctrine/reflection" />
+      <path value="$PROJECT_DIR$/project/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/project/vendor/doctrine/instantiator" />
+    </include_path>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="735" />
-    <option name="y" value="49" />
+    <option name="x" value="782" />
+    <option name="y" value="50" />
     <option name="width" value="960" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -139,50 +256,73 @@
           <expand>
             <path>
               <item name="Joke-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Joke-project" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Joke-project" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Joke-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Joke-project" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Docs" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Joke-project" type="462c0819:PsiDirectoryNode" />
+              <item name="Docs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Joke-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Joke-project" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Docs" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="System project" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Joke-project" type="462c0819:PsiDirectoryNode" />
+              <item name="Docs" type="462c0819:PsiDirectoryNode" />
+              <item name="System project" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Joke-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Joke-project" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Docs" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="System project" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Deployment" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Joke-project" type="462c0819:PsiDirectoryNode" />
+              <item name="Docs" type="462c0819:PsiDirectoryNode" />
+              <item name="System project" type="462c0819:PsiDirectoryNode" />
+              <item name="ClassDiagram" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Joke-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Joke-project" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Mockups" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Joke-project" type="462c0819:PsiDirectoryNode" />
+              <item name="Docs" type="462c0819:PsiDirectoryNode" />
+              <item name="System project" type="462c0819:PsiDirectoryNode" />
+              <item name="Component" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Joke-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Joke-project" type="462c0819:PsiDirectoryNode" />
+              <item name="Docs" type="462c0819:PsiDirectoryNode" />
+              <item name="System project" type="462c0819:PsiDirectoryNode" />
+              <item name="Deployment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Joke-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Joke-project" type="462c0819:PsiDirectoryNode" />
+              <item name="Docs" type="462c0819:PsiDirectoryNode" />
+              <item name="System project" type="462c0819:PsiDirectoryNode" />
+              <item name="State" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="E:/lABKIR1" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\Joke-project\Docs\System project\Component" />
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Joke-project\Docs\System project\Deployment" />
-      <recent name="E:\Joke-project\Docs\System project\ClassDiagram" />
       <recent name="E:\Joke-project\Docs\System project\State" />
-      <recent name="E:\Joke-project\Docs\System project\Sequence" />
+      <recent name="E:\Joke-project\Docs\System project\ClassDiagram" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Joke-project\Docs\System project\Deployment" />
+      <recent name="E:\Joke-project\Docs\System project\State" />
+      <recent name="E:\Joke-project\Docs\System project\Component" />
+      <recent name="E:\Joke-project\Docs\Requirements" />
+      <recent name="E:\Joke-project\Docs" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -197,8 +337,8 @@
       </list>
     </option>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -216,34 +356,41 @@
       <workItem from="1540444925374" duration="6285000" />
       <workItem from="1541171908038" duration="1101000" />
       <workItem from="1541178256646" duration="35000" />
-      <workItem from="1541575677034" duration="4583000" />
+      <workItem from="1541575677034" duration="13216000" />
+      <workItem from="1541658403296" duration="5151000" />
+      <workItem from="1541673853723" duration="10589000" />
+      <workItem from="1542530168043" duration="44000" />
+      <workItem from="1542530273898" duration="3395000" />
+      <workItem from="1542533729216" duration="5201000" />
+      <workItem from="1542780334101" duration="3192000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21008000" />
+    <option name="totallyTimeSpent" value="57213000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16897655" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33480662" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.102878466" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.28964758" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -252,315 +399,104 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Mockups/Edit_joke.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Mockups/Sign_in.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Mockups/Sign_up.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Mockups/User_control.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Mockups/Main_page.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Mockups/Edit_category.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Mockups/Edit_joke.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Mockups/Sign_in.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Mockups/Sign_up.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Mockups/User_control.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Mockups/Main_page.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa3704.40950/Main page.png" />
-    <entry file="file://$PROJECT_DIR$/Docs/System project/Activity/SignOut.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Docs/System project/UseCase/Flow of Events.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="138">
-            <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="16" selection-end-column="38" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Docs/System project/Sequence/BanUser.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-443">
-            <caret line="54" column="37" lean-forward="false" selection-start-line="54" selection-start-column="37" selection-end-line="54" selection-end-column="37" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Docs/System project/UseCase/UseCase.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Docs/System project/Sequence/SignUpUML.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Docs/System project/UseCase/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="92">
-            <caret line="4" column="94" lean-forward="false" selection-start-line="4" selection-start-column="94" selection-end-line="4" selection-end-column="94" />
-            <folding />
+            <caret line="4" column="94" selection-start-line="4" selection-start-column="94" selection-end-line="4" selection-end-column="94" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Docs/System project/Activity/SaveJoke.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Docs/System project/Activity/OfferJoke.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Docs/System project/Activity/DeleteJoke.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Docs/System project/Activity/DeleteCategory.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Docs/System project/Activity/AddCategory.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Mockups/Edit_category.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/Docs/Requirements/Mockups/Edit_category.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Mockups/Edit_joke.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/Docs/Requirements/Mockups/Edit_joke.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Docs/System project/Activity/EditJoke.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Docs/System project/Activity/ShowJoke.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Mockups/Main_page.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/Docs/Requirements/Mockups/Main_page.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Mockups/Sign_in.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/Docs/Requirements/Mockups/Sign_in.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Docs/System project/Activity/SingIn.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Mockups/Sign_up.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/Docs/Requirements/Mockups/Sign_up.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Docs/System project/Activity/SignUp.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Docs/System project/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="230">
-            <caret line="10" column="51" lean-forward="true" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Docs/System project/Activity/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="92">
-            <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-            <folding />
+            <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Mockups/User_control.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/Docs/Requirements/Mockups/User_control.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Docs/System project/Activity/ChangeStatus.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Docs/System project/Sequence/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="96">
-            <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="33" selection-end-column="131" />
-            <folding />
+            <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="33" selection-end-column="131" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Docs/System project/State/1s.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Docs/System project/State/6s.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Docs/System project/State/2s.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Docs/System project/State/3s.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Docs/System project/State/5s.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Docs/System project/State/4s.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Docs/System project/State/README.md">
+    <entry file="file://$PROJECT_DIR$/Docs/System project/State/6s.png" />
+    <entry file="file://$PROJECT_DIR$/Docs/System project/State/2s.png" />
+    <entry file="file://$PROJECT_DIR$/Docs/System project/State/3s.png" />
+    <entry file="file://$PROJECT_DIR$/Docs/System project/State/5s.png" />
+    <entry file="file://$PROJECT_DIR$/Docs/System project/State/4s.png" />
+    <entry file="file://$PROJECT_DIR$/Docs/System project/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="437">
-            <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Docs/System project/Deployment/deployment.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Docs/System project/ClassDiagram/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="69">
-            <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Docs/System project/Component/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="69">
-            <caret line="3" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-            <folding />
+          <first_editor relative-caret-position="230">
+            <caret line="10" column="51" lean-forward="true" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
           </first_editor>
           <second_editor />
         </state>
@@ -570,12 +506,251 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="46">
-            <caret line="2" column="123" lean-forward="false" selection-start-line="2" selection-start-column="123" selection-end-line="2" selection-end-column="123" />
-            <folding />
+            <caret line="2" column="123" selection-start-line="2" selection-start-column="123" selection-end-line="2" selection-end-column="123" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/Frontend/Templates/index.html" />
+    <entry file="file://$PROJECT_DIR$/Project/Frontend/Templates/signin.html" />
+    <entry file="file://$PROJECT_DIR$/Project/Frontend/Scripts/styles.css" />
+    <entry file="file://$PROJECT_DIR$/Project/Frontend/Templates/signup.html" />
+    <entry file="file://$PROJECT_DIR$/Project/Frontend/Templates/joke.html" />
+    <entry file="file://$PROJECT_DIR$/project/src/AppBundle/Controller/AuthController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-276" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/AppBundle/Controller/CategoryController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/\AppBundle\Controller\UserController">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>\AppBundle\Controller\UserController</OriginalElement>
+          <nodes>
+            <node x="" y="">\AppBundle\Controller\CategoryController</node>
+            <node x="" y="">\AppBundle\Controller\JokeController</node>
+            <node x="" y="">\AppBundle\Controller\AuthController</node>
+            <node x="" y="">\AppBundle\Controller\UserController</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="131.0" y="89.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/\AppBundle\Controller\AuthController">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>\AppBundle\Controller\AuthController</OriginalElement>
+          <nodes>
+            <node x="0.0" y="158.0">\AppBundle\Controller\CategoryController</node>
+            <node x="284.0" y="158.0">\AppBundle\Controller\JokeController</node>
+            <node x="191.75" y="0.0">\Symfony\Component\DependencyInjection\ContainerAwareInterface</node>
+            <node x="230.75" y="79.0">\Symfony\Bundle\FrameworkBundle\Controller\Controller</node>
+            <node x="153.0" y="158.0">\AppBundle\Controller\AuthController</node>
+            <node x="412.0" y="158.0">\AppBundle\Controller\UserController</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="\AppBundle\Controller\CategoryController" target="\Symfony\Bundle\FrameworkBundle\Controller\Controller">
+              <point x="2.8421709430404007E-14" y="-14.5" />
+              <point x="66.50000000000003" y="128.0" />
+              <point x="241.375" y="128.0" />
+              <point x="-31.875" y="14.5" />
+            </edge>
+            <edge source="\AppBundle\Controller\AuthController" target="\Symfony\Bundle\FrameworkBundle\Controller\Controller">
+              <point x="0.0" y="-14.5" />
+              <point x="208.5" y="138.0" />
+              <point x="262.625" y="138.0" />
+              <point x="-10.625" y="14.5" />
+            </edge>
+            <edge source="\AppBundle\Controller\JokeController" target="\Symfony\Bundle\FrameworkBundle\Controller\Controller">
+              <point x="0.0" y="-14.5" />
+              <point x="338.0" y="138.0" />
+              <point x="283.875" y="138.0" />
+              <point x="10.625" y="14.5" />
+            </edge>
+            <edge source="\Symfony\Bundle\FrameworkBundle\Controller\Controller" target="\Symfony\Component\DependencyInjection\ContainerAwareInterface">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="\AppBundle\Controller\UserController" target="\Symfony\Bundle\FrameworkBundle\Controller\Controller">
+              <point x="0.0" y="-14.5" />
+              <point x="466.0" y="128.0" />
+              <point x="305.125" y="128.0" />
+              <point x="31.875" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-264.0" y="-86.0" />
+          <SelectedNodes>
+            <node>\AppBundle\Controller\AuthController</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/\AppBundle\Controller\JokeController">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>\AppBundle\Controller\JokeController</OriginalElement>
+          <nodes>
+            <node x="531.0" y="235.0">\AppBundle\Controller\CategoryController</node>
+            <node x="494.0" y="1162.0">\AppBundle\Service\FormHandler</node>
+            <node x="891.0" y="1162.0">\AppBundle\Repository\UserRepository</node>
+            <node x="761.0" y="202.0">\AppBundle\Controller\JokeController</node>
+            <node x="709.0" y="735.0">\AppBundle\Form\CategoryType</node>
+            <node x="683.75" y="101.0">\Symfony\Bundle\FrameworkBundle\Controller\Controller</node>
+            <node x="0.0" y="735.0">\AppBundle\Entity\Joke</node>
+            <node x="218.0" y="735.0">\AppBundle\Service\AbstractService</node>
+            <node x="1047.0" y="1162.0">\AppBundle\Repository\JokeRepository</node>
+            <node x="710.0" y="1162.0">\AppBundle\Repository\CategoryRepository</node>
+            <node x="247.0" y="1162.0">\AppBundle\Form\LoginForm</node>
+            <node x="523.0" y="735.0">\AppBundle\Entity\Category</node>
+            <node x="956.0" y="735.0">\AppBundle\Form\JokeType</node>
+            <node x="247.5" y="970.0">\AppBundle\Service\UserService</node>
+            <node x="675.75" y="0.0">\Symfony\Component\DependencyInjection\ContainerAwareInterface</node>
+            <node x="0.0" y="1162.0">\AppBundle\Form\SignupForm</node>
+            <node x="1052.0" y="234.0">\AppBundle\Controller\AuthController</node>
+            <node x="293.0" y="279.0">\AppBundle\Controller\UserController</node>
+            <node x="0.0" y="0.0">\AppBundle\Entity\User</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="\AppBundle\Controller\CategoryController" target="\Symfony\Bundle\FrameworkBundle\Controller\Controller">
+              <point x="0.0" y="-80.5" />
+              <point x="636.0" y="182.0" />
+              <point x="745.625" y="182.0" />
+              <point x="-20.625" y="25.5" />
+            </edge>
+            <edge source="\AppBundle\Controller\AuthController" target="\Symfony\Bundle\FrameworkBundle\Controller\Controller">
+              <point x="0.0" y="-81.5" />
+              <point x="1180.5" y="172.0" />
+              <point x="828.125" y="172.0" />
+              <point x="61.875" y="25.5" />
+            </edge>
+            <edge source="\AppBundle\Controller\JokeController" target="\Symfony\Bundle\FrameworkBundle\Controller\Controller">
+              <point x="0.0" y="-113.5" />
+              <point x="896.5" y="182.0" />
+              <point x="786.875" y="182.0" />
+              <point x="20.625" y="25.5" />
+            </edge>
+            <edge source="\Symfony\Bundle\FrameworkBundle\Controller\Controller" target="\Symfony\Component\DependencyInjection\ContainerAwareInterface">
+              <point x="0.0" y="-25.5" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="\AppBundle\Controller\UserController" target="\Symfony\Bundle\FrameworkBundle\Controller\Controller">
+              <point x="0.0" y="-36.5" />
+              <point x="402.0" y="172.0" />
+              <point x="704.375" y="172.0" />
+              <point x="-61.875" y="25.5" />
+            </edge>
+            <edge source="\AppBundle\Service\UserService" target="\AppBundle\Service\AbstractService">
+              <point x="0.0" y="-48.0" />
+              <point x="0.0" y="92.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.6685258964143427" x="-98.0" y="349.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-16" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/src/AppBundle/Form/SignupForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="31" column="37" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Docs/System project/State/1s.png" />
+    <entry file="file://$PROJECT_DIR$/Docs/System project/State/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="69">
+            <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Docs/System project/ClassDiagram/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="46">
+            <caret line="2" column="121" selection-start-line="2" selection-end-line="2" selection-end-column="121" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Docs/System project/Component/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="69">
+            <caret line="3" lean-forward="true" selection-end-line="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Docs/System project/State/State.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Docs/System project/ClassDiagram/diagram.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Docs/System project/Component/Components.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Docs/Requirements/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="54">
+            <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="46">
+            <caret line="2" column="75" selection-start-line="2" selection-start-column="75" selection-end-line="2" selection-end-column="75" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Docs/System project/Deployment/deployment.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
 </project>

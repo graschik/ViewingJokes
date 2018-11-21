@@ -20,17 +20,23 @@
   * JavaScript
 ### 2.2 Интерфейс пользователя
 * Страница регистрации.
+<<<<<<< HEAD
 ![Страница регистрации](https://github.com/graschik/ViewingJokes/blob/master/Docs/Requiremens/Mockups/Sign_up.png)
 * Страница входа в аккаунт.
 ![Страница входа в аккаунт](https://github.com/graschik/ViewingJokes/blob/master/Docs/Requiremens/Mockups/Sign_in.png)
+=======
+![Страница регистрации](https://github.com/graschik/ViewingJokes/blob/master/Docs/Requirements/Mockups/Sign_up.png)
+* Страница входа в аккаунт.
+![alt text](https://github.com/graschik/ViewingJokes/blob/master/Docs/Requirements/Mockups/Sign_in.png)
+>>>>>>> 6d0f549fe7e90df72e8824acf8644e849c210ab1
 * Главная страница с анекдотами.
-![alt text](https://github.com/graschik/ViewingJokes/blob/master/Docs/Requiremens/Mockups/Main_page.png)
+![alt text](https://github.com/graschik/ViewingJokes/blob/master/Docs/Requirements/Mockups/Main_page.png)
 * Страница добавления/редактирования категории.
-![alt text](https://github.com/graschik/ViewingJokes/blob/master/Docs/Requiremens/Mockups/Edit_category.png)
+![alt text](https://github.com/graschik/ViewingJokes/blob/master/Docs/Requirements/Mockups/Edit_category.png)
 * Страница добавления/редактирования анекдота.
-![alt_text](https://github.com/graschik/ViewingJokes/blob/master/Docs/Requiremens/Mockups/Edit_joke.png)
+![alt_text](https://github.com/graschik/ViewingJokes/blob/master/Docs/Requirements/Mockups/Edit_joke.png)
 * Страница упарвления пользователями.
-![alt_text](https://github.com/graschik/ViewingJokes/blob/master/Docs/Requiremens/Mockups/User_control.png)
+![alt_text](https://github.com/graschik/ViewingJokes/blob/master/Docs/Requirements/Mockups/User_control.png)
 
 ### 2.3 Классы пользователей
 

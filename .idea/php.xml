@@ -1,4 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/project/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/project/vendor/doctrine/migrations" />
+      <path value="$PROJECT_DIR$/project/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/project/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/project/vendor/doctrine/doctrine-cache-bundle" />
+      <path value="$PROJECT_DIR$/project/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/project/vendor/twig/extensions" />
+      <path value="$PROJECT_DIR$/project/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/project/vendor/ocramius/proxy-manager" />
+      <path value="$PROJECT_DIR$/project/vendor/easycorp/easyadmin-bundle" />
+      <path value="$PROJECT_DIR$/project/vendor/zendframework/zend-code" />
+      <path value="$PROJECT_DIR$/project/vendor/zendframework/zend-eventmanager" />
+      <path value="$PROJECT_DIR$/project/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/project/vendor/fig/link-util" />
+      <path value="$PROJECT_DIR$/project/vendor/ocramius/package-versions" />
+      <path value="$PROJECT_DIR$/project/vendor/composer" />
+      <path value="$PROJECT_DIR$/project/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/project/vendor/pagerfanta/pagerfanta" />
+      <path value="$PROJECT_DIR$/project/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/project/vendor/sensio/framework-extra-bundle" />
+      <path value="$PROJECT_DIR$/project/vendor/sensio/distribution-bundle" />
+      <path value="$PROJECT_DIR$/project/vendor/sensio/generator-bundle" />
+      <path value="$PROJECT_DIR$/project/vendor/jdorn/sql-formatter" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/project/vendor/sensiolabs/security-checker" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/polyfill-php56" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/polyfill-util" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/symfony" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/project/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/project/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/project/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/project/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/project/vendor/psr/link" />
+      <path value="$PROJECT_DIR$/project/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/monolog-bundle" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/polyfill-apcu" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/phpunit-bridge" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/polyfill-intl-icu" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/swiftmailer-bundle" />
+      <path value="$PROJECT_DIR$/project/vendor/incenteev/composer-parameter-handler" />
+      <path value="$PROJECT_DIR$/project/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/project/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/project/vendor/doctrine/doctrine-migrations-bundle" />
+      <path value="$PROJECT_DIR$/project/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/project/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/project/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/project/vendor/doctrine/reflection" />
+      <path value="$PROJECT_DIR$/project/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/project/vendor/doctrine/instantiator" />
+    </include_path>
+  </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.2" />
 </project>
